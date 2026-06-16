@@ -8,7 +8,8 @@ Get the latest installers on the [**Releases**](../../releases/latest) page:
 
 - **Windows (Intel/AMD, most PCs):** `ChoreKeySetup-x64.exe`
 - **Windows (ARM):** `ChoreKeySetup-arm64.exe`
-- **macOS (Apple Silicon):** `ChoreKey-macos-arm64.zip`
+- **macOS (Apple Silicon, M1/M2/M3):** `ChoreKey-macos-arm64.zip`
+- **macOS (Intel):** `ChoreKey-macos-x64.zip`
 
 All builds are self-contained, so you don't need to install anything else.
 
